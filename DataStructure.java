@@ -1,3 +1,5 @@
+package src;
+
 public interface DataStructure {
 	Node get(int i);
 	int search(Node n);
